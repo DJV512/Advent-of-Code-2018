@@ -1,0 +1,8 @@
+These are not to be parsed and used directly. Just inputs and expected outputs.
+
+ 9 players;   25 points; high score is     32
+10 players; 1618 points; high score is   8317
+13 players; 7999 points; high score is 146373
+17 players; 1104 points; high score is   2764
+21 players; 6111 points; high score is  54718
+30 players; 5807 points; high score is  37305
